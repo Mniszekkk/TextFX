@@ -1,5 +1,5 @@
 # TextFX
-By __[Mnichuz](https://github.com/Mnichuz)__
+By __[Mniszek](https://github.com/Mniszekkk)__
 ___
 
 ### Example usage:
